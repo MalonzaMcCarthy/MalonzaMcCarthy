@@ -3,13 +3,11 @@
 ##  hprogrammer
 
 
--:green_square: I'm a student of computer science
+-:green_square: I'm a software engineering student
 
--:orange_square: I'm a developer web
+-:orange_square: I'm a front end web devopler
 
 -:blue_square: I'm a tech enthusiast
-
--:atom_symbol: Funfact: I would love to marry js
 
 -:peace_symbol: bonus: also i love to sketch ugly things
 
@@ -22,15 +20,23 @@
 ## Languages and Frameworks
 -:euro: javascript, python , rust
 
--:money_with_wings: html5, css3
+-:money_with_wings: html5, css3, tailwind css
 
--:dollar: React, Vue
+-:dollar: Nextjs, Vue,
 
 -:coin: Golang, Nodejs, experss
 
 -:credit_card: MongoDB, Postgresql
 
--:pound: C++
+## :telephone_receiver: me
+
+-:biohazard: https://twitter.com/MalonzaMccarthy
+
+-:basecamp:  https://github.com/MalonzaMcCarthy
+
+-:sparkle:  ######
+
+-:email:  malonzamccarthy@gmail.com
 
 <!-- !['image'](giphy3.gif) -->
 
@@ -38,17 +44,6 @@
 
 <br />
 <br />
-
-
-## :telephone_receiver: me
-
--:biohazard: https://twitter.com/crypticcc101
-
--:basecamp:  https://github.com/zwn28
-
--:sparkle:  https://zwn28.github.io/
-
--:email:  crypticcc101@gmail.com
 
 
 
