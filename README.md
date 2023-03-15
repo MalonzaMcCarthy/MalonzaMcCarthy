@@ -23,7 +23,7 @@
 
 -:dollar: Nextjs, Vue,
 
--:coin: Golang, Nodejs, experss
+-:coin: Nodejs, experss
 
 -:credit_card: MongoDB, Postgresql
 
