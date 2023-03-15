@@ -1,5 +1,9 @@
-### 	:pirate_flag: :crossed_flags: :checkered_flag:
+❯MMM — There’s something very satisfying about creating things ;⏎
 
+
+
+
+### 	:pirate_flag: :crossed_flags: :checkered_flag:
 
 
 -:green_square: I'm a software engineering student
