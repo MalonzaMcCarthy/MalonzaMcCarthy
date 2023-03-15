@@ -1,8 +1,3 @@
-❯MMM — There’s something very satisfying about creating things ;⏎
-
-
-
-
 ### 	:pirate_flag: :crossed_flags: :checkered_flag:
 
 
@@ -15,6 +10,9 @@
 -:peace_symbol: bonus: also i love to sketch ugly things
 
 -:pirate_flag: Blazing fast learning
+
+
+#### ❯MMM — There’s something very satisfying about creating things ;⏎
 
 
 !['contributions.svg'](contributions.svg)
