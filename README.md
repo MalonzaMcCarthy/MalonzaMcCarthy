@@ -12,7 +12,7 @@
 -:pirate_flag: Blazing fast learning
 
 
-#### ❯MMM — There’s something very satisfying about creating things ;⏎
+#### ❯MMM — Creating things is satisfying ;⏎
 
 <div>
   <a href="https://github.com/MalonzaMcCarthy">
