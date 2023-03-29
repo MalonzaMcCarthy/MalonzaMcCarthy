@@ -7,9 +7,9 @@
 
 -:blue_square: I'm a tech enthusiast
 
--:peace_symbol: bonus: also i love to sketch ugly things
+-:peace_symbol: bonus: also i love to try new things
 
--:pirate_flag: Blazing fast learning
+-:pirate_flag:
 
 
 #### ❯MMM — Creating things is satisfying ;⏎
@@ -17,7 +17,7 @@
 <div>
   <a href="https://github.com/MalonzaMcCarthy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MalonzaMcCarthy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalonzaMcCarthy&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalonzaMcCarthy&layout=compact&langs_count=5&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Mano-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
