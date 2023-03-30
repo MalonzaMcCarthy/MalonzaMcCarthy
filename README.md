@@ -7,7 +7,7 @@
 
 -:blue_square: I'm a tech enthusiast
 
--:peace_symbol: bonus: also i love to try new things
+-:peace_symbol: 
 
 -:pirate_flag:
 
