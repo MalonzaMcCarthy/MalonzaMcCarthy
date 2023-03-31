@@ -7,9 +7,8 @@
 
 -:blue_square: I'm a tech enthusiast
 
--:peace_symbol: 
+-:pirate_flag: :peace_symbol: 
 
--:pirate_flag:
 
 
 #### ❯MMM — Creating things is satisfying ;⏎
