@@ -34,25 +34,25 @@
 
 
 ## Languages and Frameworks
--:euro: javascript, python , rust
+:euro: javascript, python , rust
 
--:money_with_wings: html5, css3, tailwind css
+:money_with_wings: html5, css3, tailwind css
 
--:dollar: Nextjs, Vue,
+:dollar: Nextjs, Vue,
 
--:coin: Nodejs, experss
+:coin: Nodejs, experss
 
--:credit_card: MongoDB, Postgresql
+:credit_card: MongoDB, Postgresql
 
 ## :telephone_receiver: me
 
--:biohazard: https://twitter.com/MalonzaMccarthy
+:biohazard: https://twitter.com/MalonzaMccarthy
 
--:basecamp:  https://github.com/MalonzaMcCarthy
+:basecamp:  https://codepen.io/MalonzaMcCarthy
 
--:sparkle:  ######
+:sparkle:  https://www.linkedin.com/in/malonza-mccarthy-051964176/
 
--:email:  malonzamccarthy@gmail.com
+:email:  malonzamccarthy@gmail.com
 
 <!-- !['image'](giphy3.gif) -->
 
