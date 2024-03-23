@@ -1,9 +1,9 @@
 ### 	:pirate_flag: :crossed_flags: :checkered_flag:
 
 
-:green_square: I'm a software engineering student
+:green_square: I'm a undergraduate software engineering student
 
-:orange_square: I'm a front end web devopler
+:orange_square: I'm a full stack web developer
 
 :blue_square: I'm a tech enthusiast
 
