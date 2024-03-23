@@ -7,6 +7,8 @@
 
 :blue_square: I'm a tech enthusiast
 
+Portflio Website: https://mac-portfolio.onrender.com/
+
 :pirate_flag: :peace_symbol: 
 
 
@@ -34,7 +36,7 @@
 
 
 ## Languages and Frameworks
-:euro: javascript, python , rust
+:euro: javascript, python , Typescript
 
 :money_with_wings: html5, css3, tailwind css
 
