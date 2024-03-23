@@ -1,4 +1,5 @@
-### 	:pirate_flag: :crossed_flags: :checkered_flag:
+### 	:kenya:
+:pirate_flag: :crossed_flags: :checkered_flag:
 
 
 :green_square: I'm a undergraduate software engineering student
@@ -7,7 +8,7 @@
 
 :blue_square: I'm a tech enthusiast
 
-Portflio Website: https://mac-portfolio.onrender.com/
+Portfolio Website: https://mac-portfolio.onrender.com/
 
 :pirate_flag: :peace_symbol: 
 
@@ -47,6 +48,8 @@ Portflio Website: https://mac-portfolio.onrender.com/
 :credit_card: MongoDB, Postgresql
 
 ## :telephone_receiver: me
+
+:blue_square: Portfolio Website: https://mac-portfolio.onrender.com/
 
 :biohazard: https://twitter.com/MalonzaMccarthy
 
